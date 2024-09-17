@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gomande BriceTresor
+- 👀 I’m interested in technology and innovation
+- 🌱 I’m currently learning Data science and ML
+- 💞️ I’m looking to collaborate on Data science Projects
+- 📫 How to reach me:tresorbrice1999@gmail.com
